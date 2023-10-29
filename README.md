@@ -11,7 +11,7 @@
 
 <img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3FhdjRnZTE5eTBsOTFqcDB5bWN5a200MzFuN2c0aWp6Zzl5bHQxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sDbSWRx1rKzoCK4lGt/giphy.gif"  />
 
-###
+## Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -73,7 +73,7 @@
   <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
 </div>
 
-## Contact Me
+## Contact
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
