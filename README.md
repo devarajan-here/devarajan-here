@@ -84,5 +84,5 @@
 </div>
 
 
-  ![Snake animation](https://github.com/devarajan-here/devarajan-here/blob/output/github-contribution-grid-snake.svg)
+###  ![Snake animation](https://github.com/devarajan-here/devarajan-here/blob/output/github-contribution-grid-snake.svg)
 
